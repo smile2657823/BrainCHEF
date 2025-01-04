@@ -1,0 +1,201 @@
+,ROI number,AAL,ROIlabel,label,number
+0,1,Occipital_Mid_L,Middle Occipital Gyrus,VN,51
+1,2,Angular_L,Angular Gyrus,DMN,65
+2,3,Precuneus_R,Precuneus,DMN,68
+3,4,Temporal_Sup_L,Superior Temporal Gyrus,AN,81
+4,5,Cingulum_Ant_L,Anterior Cingulate Cortex,DMN,31
+5,6,Cingulum_Mid_R,Middle Cingulate Cortex,DMN,34
+6,7,Parietal_Inf_R,Inferior Parietal Cortex,CCN,62
+7,8,Postcentral_L,Postcentral Gyrus,SMN,57
+8,9,Cerebelum_6_L,Lobule,Others,116
+9,10,Cerebelum_Crus1_R,Crus I,Others,116
+10,11,Temporal_Mid_L,Middle Temporal Gyrus,MN,85
+11,12,Frontal_Sup_R,Superior Frontal Gyrus,DMN,24
+12,13,Supp_Motor_Area_L,Supplementary Motor Area,SMN,19
+13,14,Angular_R,Angular Gyrus,DMN,66
+14,15,Caudate_R,Caudate Nucleus,SCN,72
+15,16,Temporal_Mid_L,Middle Temporal Gyrus,MN,85
+16,17,Frontal_Inf_Oper_R,Inferior Frontal Gyrus,CCN,12
+17,18,Thalamus_R,Thalamus,SCN,78
+18,19,Calcarine_L,Calcarine Gyrus,VN,43
+19,20,Insula_L,Insular Cortex,CCN,29
+20,21,Paracentral_Lobule_L,Paracentral Lobule,SMN,69
+21,22,Cingulum_Ant_R,Anterior Cingulate Cortex,DMN,32
+22,23,Frontal_Inf_Tri_L,Inferior Frontal Gyrus,CCN,13
+23,24,Temporal_Sup_L,Superior Temporal Gyrus,AN,81
+24,25,Frontal_Mid_R,Middle Frontal Gyrus,CCN,8
+25,26,Occipital_Inf_R,Inferior Occipital Gyrus,VN,54
+26,27,Fusiform_L,Fusiform Gyrus,VN,55
+27,28,Postcentral_R,Postcentral Gyrus,SMN,58
+28,29,Cingulum_Mid_R,Middle Cingulate Cortex,DMN,34
+29,30,None,,,116
+30,31,Parietal_Sup_R,Superior Parietal Cortex,VN,60
+31,32,Temporal_Pole_Mid_R,Middle Part of Right Temporal Pole,BLN,88
+32,33,SupraMarginal_L,Supramarginal Gyrus,CCN,63
+33,34,Precentral_L,Precentral Gyrus,SMN,1
+34,35,Insula_R,Insular Cortex,CCN,30
+35,36,Cerebelum_Crus1_L,Crus I,Others,116
+36,37,Thalamus_L,Thalamus,SCN,77
+37,38,Frontal_Mid_R,Middle Frontal Gyrus,CCN,8
+38,39,Temporal_Mid_R,Middle Temporal Gyrus,MN,86
+39,40,Cingulum_Ant_R,Anterior Cingulate Cortex,DMN,32
+40,41,Cerebelum_6_R,Lobule,Others,116
+41,42,Frontal_Mid_Orb_L,Middle Frontal Gyrus,DMN,9
+42,43,Temporal_Inf_L,Inferior Temporal Gyrus,MN,89
+43,44,Calcarine_R,Calcarine Gyrus,VN,44
+44,45,Thalamus_L,Thalamus,SCN,77
+45,46,Cingulum_Mid_R,Middle Cingulate Cortex,DMN,34
+46,47,Caudate_L,Caudate Nucleus,SCN,71
+47,48,Hippocampus_R,Hippocampus,BLN,38
+48,49,Temporal_Mid_R,Middle Temporal Gyrus,MN,86
+49,50,Precentral_L,Precentral Gyrus,SMN,1
+50,51,Frontal_Med_Orb_L,Superior Frontal Gyrus,DMN,25
+51,52,Cerebelum_9_L,Lobule,Others,116
+52,53,Frontal_Inf_Orb_R,Inferior Frontal Gyrus,DMN,10
+53,54,Cuneus_L,Cuneus,VN,45
+54,55,Cingulum_Mid_L,Middle Cingulate Cortex,DMN,33
+55,56,Parietal_Inf_L,Inferior Parietal Cortex,CCN,61
+56,57,Frontal_Inf_Orb_L,Inferior Frontal Gyrus,DMN,9
+57,58,Precuneus_L,Precuneus,DMN,67
+58,59,Insula_R,Insular Cortex,CCN,30
+59,60,Precentral_R,Precentral Gyrus,SMN,2
+60,61,Frontal_Mid_L,Middle Frontal Gyrus,CCN,7
+61,62,Fusiform_R,Fusiform Gyrus,VN,56
+62,63,Temporal_Inf_L,Inferior Temporal Gyrus,MN,89
+63,64,Frontal_Sup_R,Superior Frontal Gyrus,DMN,24
+64,65,Postcentral_R,Postcentral Gyrus,SMN,58
+65,66,Temporal_Sup_R,Superior Temporal Gyrus,AN,82
+66,67,Putamen_L,Putamen,SCN,73
+67,68,None,,,116
+68,69,Temporal_Mid_R,Middle Temporal Gyrus,MN,86
+69,70,Calcarine_L,Calcarine Gyrus,VN,43
+70,71,Frontal_Inf_Orb_R,Inferior Frontal Gyrus,DMN,10
+71,72,Temporal_Mid_L,Middle Temporal Gyrus,MN,85
+72,73,Precentral_L,Precentral Gyrus,SMN,1
+73,74,Frontal_Inf_Orb_L,Inferior Frontal Gyrus,DMN,9
+74,75,Frontal_Mid_R,Middle Frontal Gyrus,CCN,8
+75,76,Cingulum_Mid_L,Middle Cingulate Cortex,DMN,33
+76,77,Cerebelum_Crus1_R,Crus I,Others,116
+77,78,Temporal_Pole_Mid_L,Middle Part of Right Temporal Pole,BLN,87
+78,79,Cingulum_Mid_L,Middle Cingulate Cortex,DMN,33
+79,80,Cerebelum_Crus1_L,Crus I,Others,116
+80,81,Cuneus_R,Cuneus,VN,46
+81,82,Angular_L,Angular Gyrus,DMN,65
+82,83,Insula_R,Insular Cortex,CCN,30
+83,84,Caudate_L,Caudate Nucleus,SCN,71
+84,85,Temporal_Mid_R,Middle Temporal Gyrus,MN,86
+85,86,Cerebelum_9_R,Lobule,Others,116
+86,87,Fusiform_R,Fusiform Gyrus,VN,56
+87,88,Postcentral_L,Postcentral Gyrus,SMN,57
+88,89,Calcarine_R,Calcarine Gyrus,VN,44
+89,90,Precentral_L,Precentral Gyrus,SMN,1
+90,91,Frontal_Sup_Medial_L,Superior Frontal Gyrus,DMN,25
+91,92,Hippocampus_L,Hippocampus,BLN,37
+92,93,Parietal_Inf_R,Inferior Parietal Cortex,CCN,62
+93,94,Caudate_R,Caudate Nucleus,SCN,72
+94,95,Frontal_Mid_L,Middle Frontal Gyrus,CCN,7
+95,96,Postcentral_L,Postcentral Gyrus,SMN,57
+96,97,Occipital_Mid_L,Middle Occipital Gyrus,VN,51
+97,98,Postcentral_R,Postcentral Gyrus,SMN,58
+98,99,Temporal_Mid_L,Middle Temporal Gyrus,MN,85
+99,100,Temporal_Inf_R,Inferior Temporal Gyrus,MN,90
+100,101,Temporal_Inf_L,Inferior Temporal Gyrus,MN,89
+101,102,Occipital_Mid_R,Middle Occipital Gyrus,VN,52
+102,103,Cerebelum_6_L,Lobule,Others,116
+103,104,Frontal_Sup_Medial_L,Superior Frontal Gyrus,DMN,25
+104,105,Lingual_R,Lingual Gyrus,VN,48
+105,106,Frontal_Mid_R,Middle Frontal Gyrus,CCN,8
+106,107,Temporal_Sup_R,Superior Temporal Gyrus,AN,82
+107,108,Calcarine_L,Calcarine Gyrus,VN,43
+108,109,Frontal_Med_Orb_L,Inferior Frontal Gyrus,DMN,25
+109,110,Temporal_Pole_Sup_R,Superior Part of Right Temporal Pole,BLN,84
+110,111,Paracentral_Lobule_L,Paracentral Lobule,SMN,69
+111,112,Insula_L,Insular Cortex,CCN,29
+112,113,Frontal_Mid_Orb_R,Middle Frontal Gyrus,DMN,10
+113,114,Occipital_Mid_L,Middle Occipital Gyrus,VN,51
+114,115,Precentral_R,Precentral Gyrus,SMN,2
+115,116,SupraMarginal_L,Supramarginal Gyrus,CCN,63
+116,117,Temporal_Mid_L,Middle Temporal Gyrus,MN,85
+117,118,Cerebelum_6_R,Lobule,Others,116
+118,119,Rolandic_Oper_R,Rolandic Operculum,AN,18
+119,120,Cerebelum_Crus2_L,Crus I,Others,116
+120,121,Rolandic_Oper_L,Rolandic Operculum,AN,17
+121,122,Fusiform_L,Fusiform Gyrus,VN,55
+122,123,Supp_Motor_Area_L,Supplementary Motor Area,SMN,19
+123,124,Frontal_Mid_Orb_R,Middle Frontal Gyrus,DMN,10
+124,125,Frontal_Mid_L,Middle Frontal Gyrus,CCN,7
+125,126,Cerebelum_Crus1_R,Crus I,Others,116
+126,127,Frontal_Mid_R,Middle Frontal Gyrus,CCN,8
+127,128,SupraMarginal_R,Supramarginal Gyrus,CCN,64
+128,129,Temporal_Sup_L,Superior Temporal Gyrus,AN,81
+129,130,None,,,116
+130,131,Occipital_Mid_L,Middle Occipital Gyrus,VN,51
+131,132,Parietal_Sup_R,Superior Parietal Cortex,VN,60
+132,133,Frontal_Sup_Medial_L,Superior Frontal Gyrus,DMN,25
+133,134,Frontal_Sup_R,Superior Frontal Gyrus,DMN,24
+134,135,Caudate_R,Caudate Nucleus,SCN,72
+135,136,Parietal_Sup_L,Superior Parietal Cortex,VN,59
+136,137,Insula_R,Insular Cortex,CCN,30
+137,138,Lingual_R,Lingual Gyrus,VN,48
+138,139,Frontal_Sup_Medial_R,Superior Frontal Gyrus,DMN,26
+139,140,Temporal_Mid_R,Middle Temporal Gyrus,MN,86
+140,141,Frontal_Inf_Tri_L,Inferior Frontal Gyrus,CCN,13
+141,142,Occipital_Sup_R,Superior Occipital Gyrus,VN,50
+142,143,Temporal_Mid_R,Middle Temporal Gyrus,MN,86
+143,144,Frontal_Inf_Tri_R,Inferior Frontal Gyrus,CCN,14
+144,145,Hippocampus_L,Hippocampus,BLN,37
+145,146,Temporal_Sup_L,Superior Temporal Gyrus,AN,81
+146,147,Precuneus_L,Precuneus,DMN,67
+147,148,None,,,116
+148,149,Frontal_Sup_Medial_L,Superior Frontal Gyrus,DMN,25
+149,150,Occipital_Mid_L,Middle Occipital Gyrus,VN,51
+150,151,Frontal_Inf_Tri_L,Inferior Frontal Gyrus,CCN,13
+151,152,Vermis_4_5,,,116
+152,153,Temporal_Sup_R,Superior Temporal Gyrus,AN,82
+153,154,Postcentral_L,Postcentral Gyrus,SMN,57
+154,155,Hippocampus_R,Hippocampus,BLN,38
+155,156,Parietal_Inf_L,Inferior Parietal Cortex,CCN,61
+156,157,Postcentral_R,Postcentral Gyrus,SMN,58
+157,158,Occipital_Inf_L,Inferior Occipital Gyrus,VN,53
+158,159,Occipital_Inf_L,Inferior Occipital Gyrus,VN,53
+159,160,Olfactory_L,Olfactory cortex,BLN,21
+160,161,Supp_Motor_Area_R,Supplementary Motor Area,SMN,20
+161,162,Cerebelum_4_5_L,Lobule,Others,116
+162,163,Precuneus_R,Precuneus,DMN,68
+163,164,Frontal_Inf_Tri_R,Inferior Frontal Gyrus,CCN,14
+164,165,Frontal_Inf_Oper_L,Inferior Frontal Gyrus,CCN,11
+165,166,Angular_R,Angular Gyrus,DMN,66
+166,167,Frontal_Mid_L,Middle Frontal Gyrus,CCN,7
+167,168,Frontal_Mid_R,Middle Frontal Gyrus,CCN,8
+168,169,Frontal_Mid_Orb_L,Middle Frontal Gyrus,DMN,9
+169,170,Occipital_Mid_R,Middle Occipital Gyrus,VN,52
+170,171,Parietal_Inf_L,Inferior Parietal Cortex,CCN,61
+171,172,Fusiform_R,Fusiform Gyrus,VN,56
+172,173,Supp_Motor_Area_L,Supplementary Motor Area,SMN,19
+173,174,Precuneus_L,Precuneus,DMN,67
+174,175,Occipital_Inf_R,Inferior Occipital Gyrus,VN,54
+175,176,Vermis_8,,,116
+176,177,Lingual_L,Lingual Gyrus,VN,47
+177,178,Putamen_R,Putamen,SCN,74
+178,179,Lingual_L,Lingual Gyrus,VN,47
+179,180,SupraMarginal_R,Supramarginal Gyrus,CCN,64
+180,181,Temporal_Pole_Sup_R,Superior Part of Right Temporal Pole,BLN,84
+181,182,Supp_Motor_Area_L,Supplementary Motor Area,SMN,19
+182,183,Frontal_Mid_L,Middle Frontal Gyrus,CCN,7
+183,184,Insula_L,Insular Cortex,CCN,29
+184,185,Rolandic_Oper_R,Rolandic Operculum,AN,18
+185,186,Frontal_Sup_Medial_R,Superior Frontal Gyrus,DMN,26
+186,187,Frontal_Sup_R,Superior Frontal Gyrus,DMN,24
+187,188,Parietal_Sup_L,Superior Parietal Cortex,VN,59
+188,189,Fusiform_L,Fusiform Gyrus,VN,55
+189,190,Cerebelum_3_R,Lobule,Others,116
+190,191,Frontal_Sup_L,Superior Frontal Gyrus,DMN,23
+191,192,Cerebelum_Crus2_L,Crus I,Others,116
+192,193,Frontal_Sup_R,Superior Frontal Gyrus,DMN,24
+193,194,None,,,116
+194,195,Lingual_R,Lingual Gyrus,VN,48
+195,196,Temporal_Pole_Sup_L,Superior Part of Right Temporal Pole,BLN,83
+196,197,Precuneus_L,Precuneus,DMN,67
+197,198,Fusiform_R,Fusiform Gyrus,VN,56
+198,199,ParaHippocampal_L,ParaHippocampal Gyrus,BLN,39
+199,200,Temporal_Sup_L,Superior Temporal Gyrus,AN,81
